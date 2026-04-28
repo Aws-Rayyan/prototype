@@ -3,3 +3,4 @@ server/**/__pycache__/
 server/*.db
 client/node_modules/
 client/dist/
+.vscode
